@@ -6,7 +6,7 @@ int main(){
    int price=0;
    int CA=0;
    int A;
-
+//add cmnt
     printf("enter the number of sells:");
     scanf("%d",&sells);
 
